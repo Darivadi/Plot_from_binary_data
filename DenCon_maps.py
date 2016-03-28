@@ -1,5 +1,5 @@
-#import sys
-#import struct
+import sys
+import struct
 import numpy
 import matplotlib
 import matplotlib.pyplot as pyplot
